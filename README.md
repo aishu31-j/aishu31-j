@@ -2,7 +2,7 @@
 
 I am interested in data analytics, machine learning and applied AI, particularly their use in solving practical business problems. I enjoy working on analytical projects and exploring how data and technology can support better decision-making.
 
-## What I am Interested In
+## Focus Areas
 
 - Data Analytics
 - Business Intelligence
