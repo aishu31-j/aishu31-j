@@ -4,9 +4,11 @@ I am interested in data analytics, machine learning and applied AI, particularly
 
 ## What I am Interested In
 
-- Data Analytics & Business Intelligence
-- Machine Learning & Predictive Modelling
-- Applied AI & Multi-Agent Systems
+- Data Analytics
+- Business Intelligence
+- Machine Learning
+- Applied AI
+- Multi-Agent Systems
 - Quantitative Finance & Risk Analytics
 
 ## Some Things I Have Built
