@@ -1,25 +1,25 @@
-# Hi, I'm Aishwarya!
+# Hey, I am Aishwarya!
 
 I am interested in data analytics, machine learning and applied AI, particularly their use in solving practical business problems. I enjoy working on analytical projects and exploring how data and technology can support better decision-making.
 
-## Areas of Interest
+## What I am Interested In
 
 - Data Analytics & Business Intelligence
 - Machine Learning & Predictive Modelling
 - Applied AI & Multi-Agent Systems
 - Quantitative Finance & Risk Analytics
 
-## Selected Projects
+## Some Things I Have Built
 
-A few projects I've worked on:
+| Project | Description |
+|---|---|
+| [TRIAGE](https://github.com/aishu31-j) | Multi-agent AI system for code review, combining independent reviewers with safety checks and gated evaluation. |
+| [ASSURECare](https://github.com/aishu31-j/assurecare-suite) | An award-winning AI solution for remote monitoring of elderly cardiac patients, developed as part of the NUS–Synapxe–IMDA AI Innovation Challenge 2026. |
+| [Tour de France Analytics](https://github.com/aishu31-j/tour-de-france-olap-dashboard) | Database and analytics project exploring professional cycling data. |
+| [Train Demand Prediction](https://github.com/aishu31-j/train-ticket-demand-prediction) | Predictive modelling and feature engineering for train ticket demand. |
+| [Portfolio Optimisation](https://github.com/aishu31-j/regularised-portfolio-optimisation) | Quantitative portfolio optimisation using regression-based approaches. |
 
-- [**TRIAGE**](TRIAGE_REPOSITORY_URL) – Multi-agent AI system for code review, combining independent reviewers with safety checks and gated evaluation.
-- [**ASSURECare**](https://github.com/aishu31-j/assurecare-suite) – AI-powered remote monitoring concept for elderly cardiac patients.
-- [**Tour de France Analytics**](https://github.com/aishu31-j/tour-de-france-olap-dashboard) – Database and analytics project exploring professional cycling data.
-- [**Train Demand Prediction**](https://github.com/aishu31-j/train-ticket-demand-prediction) – Predictive modelling and feature engineering for train ticket demand.
-- [**Portfolio Optimisation**](https://github.com/aishu31-j/regularised-portfolio-optimisation) – Quantitative portfolio optimisation using regression-based approaches.
-
-## Technologies & Tools
+## Tools I Work With
 
 **Languages:** Python, SQL
 
@@ -27,10 +27,9 @@ A few projects I've worked on:
 
 **Areas:** Machine Learning, Statistical Modelling, Data Visualisation, Predictive Analytics
 
-## Beyond the Screen ☕
+## Beyond the Screen 
 
-Usually listening to music, reading something or looking for my next favourite café.
+Usually listening to music, reading something or hunting for a good café. Always happy to take recommendations!
 
-## Let's Connect
-
+## Find Me Elsewhere
 [LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL)
