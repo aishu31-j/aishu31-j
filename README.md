@@ -34,4 +34,4 @@ I am interested in data analytics, machine learning and applied AI, particularly
 Usually listening to music, reading something or hunting for my next favourite café. Always happy to take recommendations!
 
 ## Find Me Elsewhere
-[LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL)
+[LinkedIn](https://www.linkedin.com/in/aishwarya-jayaraman-7a47a422a/) · [Portfolio](https://aishu31-j.github.io/portfolio/)
