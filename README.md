@@ -15,7 +15,7 @@ I am interested in data analytics, machine learning and applied AI, particularly
 
 | Project | Description |
 |---|---|
-| [TRIAGE](https://github.com/aishu31-j) | Multi-agent AI system for code review, combining independent reviewers with safety checks and gated evaluation. |
+| [TRIAGE](https://github.com/aishu31-j/triage-multi-agent-code-review) | Multi-agent AI system for code review, combining independent reviewers with safety checks and gated evaluation. |
 | [ASSURECare](https://github.com/aishu31-j/assurecare-suite) | An award-winning AI solution for remote monitoring of elderly cardiac patients, developed as part of the NUS–Synapxe–IMDA AI Innovation Challenge 2026. |
 | [Tour de France Analytics](https://github.com/aishu31-j/tour-de-france-olap-dashboard) | Database and analytics project exploring professional cycling data. |
 | [Train Demand Prediction](https://github.com/aishu31-j/train-ticket-demand-prediction) | Predictive modelling and feature engineering for train ticket demand. |
